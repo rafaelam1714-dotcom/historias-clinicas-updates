@@ -1,5 +1,4 @@
-json
-{
-  "version": "1.0.0",
-  "novedades": "- Primera versión disponible"
-}
+#    {
+#      "version": "1.0.1",
+#      "novedades": "Corrección de errores en grabación\nMejoras de rendimiento"
+#    }
